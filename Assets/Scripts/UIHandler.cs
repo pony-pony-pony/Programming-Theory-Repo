@@ -8,6 +8,7 @@ public class UIHandler : MonoBehaviour
     public void StartButtonClicked()
     {
         SceneManager.LoadScene(1);
+        
     }
 
     
